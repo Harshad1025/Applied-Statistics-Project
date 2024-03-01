@@ -19,13 +19,19 @@ The primary goal of this project is to identify patterns, trends, and correlatio
 ## Repository Structure 📁
 
 ```
-📁 data/                     # Directory for storing dataset files
-│   └── customer_data.csv     # Placeholder for the dataset file
-📁 notebooks/                # Directory for Jupyter notebooks
-│   └── marketing_analysis.ipynb     # Main notebook containing data analysis
-📁 images/                   # Directory for storing images and plots
-├── README.md                 # Project overview and instructions (this file)
-└── LICENSE                   # License information
+📁 Applied_Statistics_Project/
+│
+├── 📔 Assignment_of_Applied_Statistics_Project.ipynb
+│
+├── 📄 LICENSE
+│
+├── 📝 README.md
+│
+└── 📂 data/
+    │
+    └── 📊 Superstore Marketing Data.xlsx
+
+
 ```
 
 ## Getting Started 🚀
